@@ -1,0 +1,11 @@
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\bin\Debug\netcoreapp3.1\1DArrayStore subject marks.exe
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\bin\Debug\netcoreapp3.1\1DArrayStore subject marks.deps.json
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\bin\Debug\netcoreapp3.1\1DArrayStore subject marks.runtimeconfig.json
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\bin\Debug\netcoreapp3.1\1DArrayStore subject marks.runtimeconfig.dev.json
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\bin\Debug\netcoreapp3.1\1DArrayStore subject marks.dll
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\bin\Debug\netcoreapp3.1\1DArrayStore subject marks.pdb
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\obj\Debug\netcoreapp3.1\1DArrayStore subject marks.csprojAssemblyReference.cache
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\obj\Debug\netcoreapp3.1\1DArrayStore subject marks.AssemblyInfoInputs.cache
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\obj\Debug\netcoreapp3.1\1DArrayStore subject marks.AssemblyInfo.cs
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\obj\Debug\netcoreapp3.1\1DArrayStore subject marks.dll
+E:\Nikita\1 July 2020\1DArrayStore subject marks\1DArrayStore subject marks\obj\Debug\netcoreapp3.1\1DArrayStore subject marks.pdb
