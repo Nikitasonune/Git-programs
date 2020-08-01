@@ -1,0 +1,9 @@
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\bin\Debug\winFormExampleADO.exe.config
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\bin\Debug\winFormExampleADO.exe
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\bin\Debug\winFormExampleADO.pdb
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\obj\Debug\winFormExampleADO.csprojAssemblyReference.cache
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\obj\Debug\winFormExampleADO.Form1.resources
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\obj\Debug\winFormExampleADO.Properties.Resources.resources
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\obj\Debug\winFormExampleADO.csproj.GenerateResource.cache
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\obj\Debug\winFormExampleADO.exe
+E:\Nikita\2 July 2020\winFormExampleADO\winFormExampleADO\obj\Debug\winFormExampleADO.pdb
