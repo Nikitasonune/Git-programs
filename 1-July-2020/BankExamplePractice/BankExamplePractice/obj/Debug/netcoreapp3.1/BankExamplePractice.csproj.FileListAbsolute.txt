@@ -1,0 +1,11 @@
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\bin\Debug\netcoreapp3.1\BankExamplePractice.exe
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\bin\Debug\netcoreapp3.1\BankExamplePractice.deps.json
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\bin\Debug\netcoreapp3.1\BankExamplePractice.runtimeconfig.json
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\bin\Debug\netcoreapp3.1\BankExamplePractice.runtimeconfig.dev.json
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\bin\Debug\netcoreapp3.1\BankExamplePractice.dll
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\bin\Debug\netcoreapp3.1\BankExamplePractice.pdb
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\obj\Debug\netcoreapp3.1\BankExamplePractice.csprojAssemblyReference.cache
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\obj\Debug\netcoreapp3.1\BankExamplePractice.AssemblyInfoInputs.cache
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\obj\Debug\netcoreapp3.1\BankExamplePractice.AssemblyInfo.cs
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\obj\Debug\netcoreapp3.1\BankExamplePractice.dll
+E:\Nikita\1 July 2020\BankExamplePractice\BankExamplePractice\obj\Debug\netcoreapp3.1\BankExamplePractice.pdb
