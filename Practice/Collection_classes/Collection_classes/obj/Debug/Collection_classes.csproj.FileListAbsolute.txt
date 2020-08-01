@@ -1,0 +1,9 @@
+E:\Nikita\Practice\Collection_classes\Collection_classes\bin\Debug\Collection_classes.exe.config
+E:\Nikita\Practice\Collection_classes\Collection_classes\bin\Debug\Collection_classes.exe
+E:\Nikita\Practice\Collection_classes\Collection_classes\bin\Debug\Collection_classes.pdb
+E:\Nikita\Practice\Collection_classes\Collection_classes\obj\Debug\Collection_classes.csprojAssemblyReference.cache
+E:\Nikita\Practice\Collection_classes\Collection_classes\obj\Debug\Collection_classes.Form1.resources
+E:\Nikita\Practice\Collection_classes\Collection_classes\obj\Debug\Collection_classes.Properties.Resources.resources
+E:\Nikita\Practice\Collection_classes\Collection_classes\obj\Debug\Collection_classes.csproj.GenerateResource.cache
+E:\Nikita\Practice\Collection_classes\Collection_classes\obj\Debug\Collection_classes.exe
+E:\Nikita\Practice\Collection_classes\Collection_classes\obj\Debug\Collection_classes.pdb
