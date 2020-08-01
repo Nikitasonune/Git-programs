@@ -1,0 +1,11 @@
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.exe
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.deps.json
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.json
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.dev.json
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.dll
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.pdb
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csprojAssemblyReference.cache
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfoInputs.cache
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfo.cs
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.dll
+E:\Nikita\Interview\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.pdb

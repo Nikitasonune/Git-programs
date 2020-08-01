@@ -1,0 +1,11 @@
+E:\Nikita\Interview\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+E:\Nikita\Interview\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+E:\Nikita\Interview\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+E:\Nikita\Interview\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+E:\Nikita\Interview\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+E:\Nikita\Interview\Fibonacci\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+E:\Nikita\Interview\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+E:\Nikita\Interview\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+E:\Nikita\Interview\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+E:\Nikita\Interview\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+E:\Nikita\Interview\Fibonacci\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb

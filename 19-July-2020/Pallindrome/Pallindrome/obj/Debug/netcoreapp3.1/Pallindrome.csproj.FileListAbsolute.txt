@@ -1,0 +1,11 @@
+E:\Nikita\Interview\Pallindrome\Pallindrome\bin\Debug\netcoreapp3.1\Pallindrome.exe
+E:\Nikita\Interview\Pallindrome\Pallindrome\bin\Debug\netcoreapp3.1\Pallindrome.deps.json
+E:\Nikita\Interview\Pallindrome\Pallindrome\bin\Debug\netcoreapp3.1\Pallindrome.runtimeconfig.json
+E:\Nikita\Interview\Pallindrome\Pallindrome\bin\Debug\netcoreapp3.1\Pallindrome.runtimeconfig.dev.json
+E:\Nikita\Interview\Pallindrome\Pallindrome\bin\Debug\netcoreapp3.1\Pallindrome.dll
+E:\Nikita\Interview\Pallindrome\Pallindrome\bin\Debug\netcoreapp3.1\Pallindrome.pdb
+E:\Nikita\Interview\Pallindrome\Pallindrome\obj\Debug\netcoreapp3.1\Pallindrome.csprojAssemblyReference.cache
+E:\Nikita\Interview\Pallindrome\Pallindrome\obj\Debug\netcoreapp3.1\Pallindrome.AssemblyInfoInputs.cache
+E:\Nikita\Interview\Pallindrome\Pallindrome\obj\Debug\netcoreapp3.1\Pallindrome.AssemblyInfo.cs
+E:\Nikita\Interview\Pallindrome\Pallindrome\obj\Debug\netcoreapp3.1\Pallindrome.dll
+E:\Nikita\Interview\Pallindrome\Pallindrome\obj\Debug\netcoreapp3.1\Pallindrome.pdb

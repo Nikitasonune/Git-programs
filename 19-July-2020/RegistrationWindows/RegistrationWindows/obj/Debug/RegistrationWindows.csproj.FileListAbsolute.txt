@@ -1,0 +1,4 @@
+E:\Nikita\Interview\RegistrationWindows\RegistrationWindows\obj\Debug\RegistrationWindows.csprojAssemblyReference.cache
+E:\Nikita\Interview\RegistrationWindows\RegistrationWindows\obj\Debug\RegistrationWindows.Form1.resources
+E:\Nikita\Interview\RegistrationWindows\RegistrationWindows\obj\Debug\RegistrationWindows.Properties.Resources.resources
+E:\Nikita\Interview\RegistrationWindows\RegistrationWindows\obj\Debug\RegistrationWindows.csproj.GenerateResource.cache

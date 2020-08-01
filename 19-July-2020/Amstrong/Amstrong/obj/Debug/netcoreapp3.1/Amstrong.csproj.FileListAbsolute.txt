@@ -1,0 +1,11 @@
+E:\Nikita\Interview\Amstrong\Amstrong\bin\Debug\netcoreapp3.1\Amstrong.exe
+E:\Nikita\Interview\Amstrong\Amstrong\bin\Debug\netcoreapp3.1\Amstrong.deps.json
+E:\Nikita\Interview\Amstrong\Amstrong\bin\Debug\netcoreapp3.1\Amstrong.runtimeconfig.json
+E:\Nikita\Interview\Amstrong\Amstrong\bin\Debug\netcoreapp3.1\Amstrong.runtimeconfig.dev.json
+E:\Nikita\Interview\Amstrong\Amstrong\bin\Debug\netcoreapp3.1\Amstrong.dll
+E:\Nikita\Interview\Amstrong\Amstrong\bin\Debug\netcoreapp3.1\Amstrong.pdb
+E:\Nikita\Interview\Amstrong\Amstrong\obj\Debug\netcoreapp3.1\Amstrong.AssemblyInfoInputs.cache
+E:\Nikita\Interview\Amstrong\Amstrong\obj\Debug\netcoreapp3.1\Amstrong.AssemblyInfo.cs
+E:\Nikita\Interview\Amstrong\Amstrong\obj\Debug\netcoreapp3.1\Amstrong.dll
+E:\Nikita\Interview\Amstrong\Amstrong\obj\Debug\netcoreapp3.1\Amstrong.pdb
+E:\Nikita\Interview\Amstrong\Amstrong\obj\Debug\netcoreapp3.1\Amstrong.csprojAssemblyReference.cache
