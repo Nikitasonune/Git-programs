@@ -1,0 +1,14 @@
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\bin\Debug\WpfRegistrationForm.exe.config
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\bin\Debug\WpfRegistrationForm.exe
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\bin\Debug\WpfRegistrationForm.pdb
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm.csprojAssemblyReference.cache
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\MainWindow.g.cs
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\App.g.cs
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm_MarkupCompile.cache
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm_MarkupCompile.lref
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\MainWindow.baml
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm.g.resources
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm.Properties.Resources.resources
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm.csproj.GenerateResource.cache
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm.exe
+E:\Nikita\Practice\WpfRegistrationForm\WpfRegistrationForm\obj\Debug\WpfRegistrationForm.pdb
