@@ -1,0 +1,9 @@
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\bin\Debug\WindowFormBankAccountPractice.exe.config
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\bin\Debug\WindowFormBankAccountPractice.exe
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\bin\Debug\WindowFormBankAccountPractice.pdb
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\obj\Debug\WindowFormBankAccountPractice.csprojAssemblyReference.cache
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\obj\Debug\WindowFormBankAccountPractice.Form1.resources
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\obj\Debug\WindowFormBankAccountPractice.Properties.Resources.resources
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\obj\Debug\WindowFormBankAccountPractice.csproj.GenerateResource.cache
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\obj\Debug\WindowFormBankAccountPractice.exe
+E:\Nikita\1 July 2020\WindowFormBankAccountPractice\WindowFormBankAccountPractice\obj\Debug\WindowFormBankAccountPractice.pdb
