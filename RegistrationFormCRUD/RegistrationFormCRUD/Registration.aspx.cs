@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Data.SqlClient;
-using System.Data;
 using System.Configuration;
+using System.Data.SqlClient;
 
 namespace RegistrationFormCRUD
 {
@@ -40,7 +34,7 @@ namespace RegistrationFormCRUD
             string email = TextBox5.Text;
             string dateBirth = TextBox6.Text;
             string gender = "";
-            if(RadioButton1.Checked)
+            if (RadioButton1.Checked)
             {
                 gender = RadioButton1.Text;
             }
@@ -54,11 +48,11 @@ namespace RegistrationFormCRUD
             string city = DropDownList2.Text;
             string pin = TextBox10.Text;
             string streme = "";
-            if(RadioButton6.Checked)
+            if (RadioButton6.Checked)
             {
                 streme = RadioButton6.Text;
             }
-            else if(RadioButton7.Checked)
+            else if (RadioButton7.Checked)
             {
                 streme = RadioButton7.Text;
             }
@@ -67,27 +61,27 @@ namespace RegistrationFormCRUD
                 streme = RadioButton8.Text;
             }
             string course = CheckBoxList1.Text;
-           // string photo = FileUpload1.ClientID;
+            // string photo = FileUpload1.ClientID;
 
 
             try
             {
                 //string fn1 = "img/" + FileUpload1.FileName;
-                string fn = Server.MapPath( FileUpload1.FileName);
+                string fn = Server.MapPath(FileUpload1.FileName);
                 //Response.Write(fn);
                 FileUpload1.SaveAs(fn);
                 string photo = FileUpload1.FileName;
                 con.Open();
-                string qr=("insert into Register values('"+first+"','"+middle+"','"+last+"','"+mobile+"','"+email+"','"+dateBirth+"','"+gender+"','"+perAddress+"','"+corresAddress+"','"+state+"','"+city+"','"+pin+"','"+streme+"','"+course+"','"+photo+"')");
+                string qr = ("insert into Register values('" + first + "','" + middle + "','" + last + "','" + mobile + "','" + email + "','" + dateBirth + "','" + gender + "','" + perAddress + "','" + corresAddress + "','" + state + "','" + city + "','" + pin + "','" + streme + "','" + course + "','" + photo + "')");
                 SqlCommand command = new SqlCommand(qr, con);
                 command.ExecuteNonQuery();
                 Response.Redirect("CreatePassword.aspx");
-                
+
             }
-            catch(Exception ee)
+            catch (Exception)
             {
                 // Label1.Text = ee.ToString();
-                 Label1.Text = "This Email ID is already registered, please enter another One!";
+                Label1.Text = "This Email ID is already registered, please enter another One!";
             }
             finally
             {
@@ -95,15 +89,15 @@ namespace RegistrationFormCRUD
             }
         }
 
-    
+
         protected void Button3_Click(object sender, EventArgs e)
         {
-           // Response.Redirect("Login.aspx");
+            // Response.Redirect("Login.aspx");
         }
 
         protected void Button4_Click(object sender, EventArgs e)
         {
-          //   Response.Redirect("CreatePassword.aspx");
+            //   Response.Redirect("CreatePassword.aspx");
         }
 
 
@@ -113,11 +107,11 @@ namespace RegistrationFormCRUD
             TextBox7.Text = Convert.ToString(calculate_age(dob));
         }
 
-        
+
         protected void TextBox7_TextChanged(object sender, EventArgs e)
         {
-           // DateTime dob = Convert.ToDateTime(TextBox6.Text);
-           // TextBox7.Text = Convert.ToString(calculate_age(dob));
+            // DateTime dob = Convert.ToDateTime(TextBox6.Text);
+            // TextBox7.Text = Convert.ToString(calculate_age(dob));
         }
         public int calculate_age(DateTime db)
         {

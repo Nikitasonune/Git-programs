@@ -60,7 +60,7 @@
             <tr>
                 <td class="auto-style3">&nbsp;</td>
                 <td class="auto-style4"><strong>
-                    <asp:Button ID="Button1" runat="server" CssClass="auto-style5" OnClick="Button1_Click" Text="Delete" />
+                    <asp:Button ID="Button1" runat="server" CssClass="auto-style5" OnClick="Button1_Click" Text="Delete" style="height: 26px" />
                     </strong></td>
                 <td>&nbsp;</td>
             </tr>
