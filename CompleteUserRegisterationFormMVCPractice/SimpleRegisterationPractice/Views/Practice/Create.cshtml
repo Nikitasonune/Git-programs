@@ -1,0 +1,103 @@
+﻿@model SimpleRegisterationPractice.Models.ModelPractice
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>New Employee Registeration Form</h2>
+
+<hr/>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <!----<h4>ModelPractice</h4>
+    <hr /> -->
+    <!-- @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+      <div class="form-group">
+          @Html.LabelFor(model => model.UserId, htmlAttributes: new { @class = "control-label col-md-2" })
+          <div class="col-md-10">
+              @Html.EditorFor(model => model.UserId, new { htmlAttributes = new { @class = "form-control" } })
+              @Html.ValidationMessageFor(model => model.UserId, "", new { @class = "text-danger" })
+          </div>
+      </div>-->
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Full_Name, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Full_Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Full_Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Confirm_Password, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Confirm_Password, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Confirm_Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Martial_Status, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+
+            @Html.ValidationMessageFor(model => model.Martial_Status, "", new { @class = "text-danger" })
+            <select class="form-group" id="Martial_Status" name="Martial_Status">
+                <option selected disabled>--Select Martial Status--</option>
+                <option>Married</option>
+                <option>UnMarried</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Gender, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <b>@Html.RadioButtonFor(model => model.Gender, "Male", new { htmlAttributes = new { @class = "form-control" } })Male</b>
+            <b>@Html.RadioButtonFor(model => model.Gender, "Female", new { htmlAttributes = new { @class = "form-control" } })Female</b>
+            @Html.ValidationMessageFor(model => model.Gender, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Register" class="btn btn-default" />
+        </div>
+    </div>
+    <b>@ViewData["Message"]</b>
+</div>
+    
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Read")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

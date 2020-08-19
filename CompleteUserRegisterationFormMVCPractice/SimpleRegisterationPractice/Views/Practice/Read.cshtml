@@ -1,0 +1,70 @@
+﻿@model IEnumerable<SimpleRegisterationPractice.Models.ModelPractice>
+
+@{
+    ViewBag.Title = "Read";
+}
+
+<h2><b>List</b></h2>
+@ViewBag.show
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        @*<th>
+            @Html.DisplayNameFor(model => model.UserId)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Full_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Confirm_Password)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Martial_Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    @*<td>
+        @Html.DisplayFor(modelItem => item.UserId)
+    </td>*@
+    <td>
+        @Html.DisplayFor(modelItem => item.Full_Name)
+    <td>
+        @Html.DisplayFor(modelItem => item.Email)
+    </td>
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Password)
+    </td>
+    @*<td>
+            @Html.DisplayFor(modelItem => item.Confirm_Password)
+        </td>*@
+    <td>
+        @Html.DisplayFor(modelItem => item.Martial_Status)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Gender)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Update", new { email = item.Email }) |
+        @Html.ActionLink("Details", "Details", new { id = item.UserId }) |
+        @Html.ActionLink("Delete", "Delete", new { name = item.Full_Name })
+    </td>
+</tr>
+}
+
+</table>

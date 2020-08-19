@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+}
+@if (Session["UserEmail"] != null)
+{
+    <h2 align=center style="color:brown"><b>Welcome to User Dashboard @Session["UserEmail"].ToString()</b></h2>
+    <h3 align="right"><b> @Html.ActionLink("Logout", "Logout", "Login")</b></h3>
+    <h3 align=center><b>Your Registeration Details</b></h3>
+    <hr>
+
+    <table width="30%" border="0" align="center">
+        <tr>
+            <td>
+                <b><i>Full Name:</i></b>
+            </td>
+            <td>
+                @ViewData["fn"].ToString()
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <b><i>Email:</i></b>
+            </td>
+            <td>
+                @ViewData["em"].ToString()
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <b><i>Password:</i></b>
+            </td>
+            <td>
+                @ViewData["ps"].ToString()
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <b><i>Martial Status:</i></b>
+            </td>
+            <td>
+                @ViewData["status"].ToString()
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <b><i>Gender:</i></b>
+            </td>
+            <td>
+                @ViewData["gen"].ToString()
+            </td>
+        </tr>
+    </table>
+
+}
+else
+{
+    Response.Redirect("~/Login/Index");
+}
+
+
+
