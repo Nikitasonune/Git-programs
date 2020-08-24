@@ -45,7 +45,5 @@ namespace TaxiBookingFormMVC.Models
         [Compare("Password")]
         [DataType(DataType.Password)]
         public string ConfirmPassword { get; set; }
-
-        
     }
 }

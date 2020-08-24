@@ -120,6 +120,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CntBookController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginRegController.cs" />
     <Compile Include="Global.asax.cs">
@@ -127,6 +128,8 @@
     </Compile>
     <Compile Include="Models\AccountHandler.cs" />
     <Compile Include="Models\AccountRegisteration.cs" />
+    <Compile Include="Models\Booking.cs" />
+    <Compile Include="Models\BookingHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -173,6 +176,7 @@
     <Content Include="Views\LoginReg\Edit.cshtml" />
     <Content Include="Views\LoginReg\Delete.cshtml" />
     <Content Include="Views\LoginReg\Details.cshtml" />
+    <Content Include="Views\CntBook\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

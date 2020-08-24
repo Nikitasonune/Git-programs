@@ -8,6 +8,9 @@
 {
     <h2 align="center" style="color:seagreen"><b>Welcome to User Dashboard @Session["Email"].ToString()</b></h2>
     <h3 align="right"><b> @Html.ActionLink("Logout", "Logout", "LoginReg")</b></h3>
+    <p>
+        <b>@Html.ActionLink("Taxi Booking Form ", "Create", "cntBook")</b>
+    </p>
 }
 else
 {
