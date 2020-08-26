@@ -1,0 +1,6 @@
+D:\Nikita\4_march\Oops5ques\Oops5ques\bin\Debug\Oops5ques.exe.config
+D:\Nikita\4_march\Oops5ques\Oops5ques\bin\Debug\Oops5ques.exe
+D:\Nikita\4_march\Oops5ques\Oops5ques\bin\Debug\Oops5ques.pdb
+D:\Nikita\4_march\Oops5ques\Oops5ques\obj\Debug\Oops5ques.csprojResolveAssemblyReference.cache
+D:\Nikita\4_march\Oops5ques\Oops5ques\obj\Debug\Oops5ques.exe
+D:\Nikita\4_march\Oops5ques\Oops5ques\obj\Debug\Oops5ques.pdb
