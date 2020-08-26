@@ -1,0 +1,6 @@
+D:\Nikita\6_march\OOPs_ques10\OOPs_ques10\bin\Debug\OOPs_ques10.exe.config
+D:\Nikita\6_march\OOPs_ques10\OOPs_ques10\bin\Debug\OOPs_ques10.exe
+D:\Nikita\6_march\OOPs_ques10\OOPs_ques10\bin\Debug\OOPs_ques10.pdb
+D:\Nikita\6_march\OOPs_ques10\OOPs_ques10\obj\Debug\OOPs_ques10.csprojResolveAssemblyReference.cache
+D:\Nikita\6_march\OOPs_ques10\OOPs_ques10\obj\Debug\OOPs_ques10.exe
+D:\Nikita\6_march\OOPs_ques10\OOPs_ques10\obj\Debug\OOPs_ques10.pdb
