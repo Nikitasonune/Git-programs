@@ -1,0 +1,6 @@
+D:\Nikita\27_feb\copy_constructor\copy_constructor\bin\Debug\copy_constructor.exe.config
+D:\Nikita\27_feb\copy_constructor\copy_constructor\bin\Debug\copy_constructor.exe
+D:\Nikita\27_feb\copy_constructor\copy_constructor\bin\Debug\copy_constructor.pdb
+D:\Nikita\27_feb\copy_constructor\copy_constructor\obj\Debug\copy_constructor.csprojResolveAssemblyReference.cache
+D:\Nikita\27_feb\copy_constructor\copy_constructor\obj\Debug\copy_constructor.exe
+D:\Nikita\27_feb\copy_constructor\copy_constructor\obj\Debug\copy_constructor.pdb
