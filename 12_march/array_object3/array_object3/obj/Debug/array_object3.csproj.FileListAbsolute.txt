@@ -1,0 +1,5 @@
+D:\Nikita\12_march\array_object3\array_object3\bin\Debug\array_object3.exe.config
+D:\Nikita\12_march\array_object3\array_object3\bin\Debug\array_object3.exe
+D:\Nikita\12_march\array_object3\array_object3\bin\Debug\array_object3.pdb
+D:\Nikita\12_march\array_object3\array_object3\obj\Debug\array_object3.exe
+D:\Nikita\12_march\array_object3\array_object3\obj\Debug\array_object3.pdb
