@@ -1,0 +1,8 @@
+D:\Nikita\12_march\abstract_4\abstract_4\bin\Debug\abstract_4.exe.config
+D:\Nikita\12_march\abstract_4\abstract_4\obj\Debug\abstract_4.csprojResolveAssemblyReference.cache
+D:\Nikita\16_march\abstract_4\abstract_4\bin\Debug\abstract_4.exe.config
+D:\Nikita\16_march\abstract_4\abstract_4\bin\Debug\abstract_4.exe
+D:\Nikita\16_march\abstract_4\abstract_4\bin\Debug\abstract_4.pdb
+D:\Nikita\16_march\abstract_4\abstract_4\obj\Debug\abstract_4.csprojResolveAssemblyReference.cache
+D:\Nikita\16_march\abstract_4\abstract_4\obj\Debug\abstract_4.exe
+D:\Nikita\16_march\abstract_4\abstract_4\obj\Debug\abstract_4.pdb
