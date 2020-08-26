@@ -1,0 +1,5 @@
+D:\Nikita\4_march\oops_assign_from_ques4\oops_assign_from_ques4\bin\Debug\oops_assign_from_ques4.exe.config
+D:\Nikita\4_march\oops_assign_from_ques4\oops_assign_from_ques4\bin\Debug\oops_assign_from_ques4.exe
+D:\Nikita\4_march\oops_assign_from_ques4\oops_assign_from_ques4\bin\Debug\oops_assign_from_ques4.pdb
+D:\Nikita\4_march\oops_assign_from_ques4\oops_assign_from_ques4\obj\Debug\oops_assign_from_ques4.exe
+D:\Nikita\4_march\oops_assign_from_ques4\oops_assign_from_ques4\obj\Debug\oops_assign_from_ques4.pdb
