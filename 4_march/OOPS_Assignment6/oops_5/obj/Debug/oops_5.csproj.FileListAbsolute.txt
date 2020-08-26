@@ -1,0 +1,5 @@
+D:\Nikita\4_march\oops_5\oops_5\bin\Debug\oops_5.exe.config
+D:\Nikita\4_march\oops_5\oops_5\bin\Debug\oops_5.exe
+D:\Nikita\4_march\oops_5\oops_5\bin\Debug\oops_5.pdb
+D:\Nikita\4_march\oops_5\oops_5\obj\Debug\oops_5.exe
+D:\Nikita\4_march\oops_5\oops_5\obj\Debug\oops_5.pdb
