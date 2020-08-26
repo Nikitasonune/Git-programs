@@ -1,0 +1,11 @@
+D:\Nikita\18_march\more_oops6\more_oops6\bin\Debug\more_oops6.exe.config
+D:\Nikita\18_march\more_oops6\more_oops6\bin\Debug\more_oops6.exe
+D:\Nikita\18_march\more_oops6\more_oops6\bin\Debug\more_oops6.pdb
+D:\Nikita\18_march\more_oops6\more_oops6\obj\Debug\more_oops6.exe
+D:\Nikita\18_march\more_oops6\more_oops6\obj\Debug\more_oops6.pdb
+D:\Nikita\18_march\more_oops8\more_oops6\bin\Debug\more_oops6.exe.config
+D:\Nikita\18_march\more_oops8\more_oops6\obj\Debug\more_oops6.exe
+D:\Nikita\18_march\more_oops8\more_oops6\obj\Debug\more_oops6.pdb
+D:\Nikita\18_march\more_oops8\more_oops6\bin\Debug\more_oops6.exe
+D:\Nikita\18_march\more_oops8\more_oops6\bin\Debug\more_oops6.pdb
+D:\Nikita\18_march\more_oops8\more_oops6\obj\Debug\more_oops6.csprojResolveAssemblyReference.cache

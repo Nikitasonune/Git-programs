@@ -1,0 +1,5 @@
+D:\Nikita\18_march\more_oops7\more_oops7\bin\Debug\more_oops7.exe.config
+D:\Nikita\18_march\more_oops7\more_oops7\bin\Debug\more_oops7.exe
+D:\Nikita\18_march\more_oops7\more_oops7\bin\Debug\more_oops7.pdb
+D:\Nikita\18_march\more_oops7\more_oops7\obj\Debug\more_oops7.exe
+D:\Nikita\18_march\more_oops7\more_oops7\obj\Debug\more_oops7.pdb
