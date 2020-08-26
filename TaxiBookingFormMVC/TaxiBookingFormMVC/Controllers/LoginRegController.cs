@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Web;
 using System.Web.Mvc;
 using TaxiBookingFormMVC.Models;
 using System.Data.SqlClient;
 using System.Configuration;
 using System.Web.Security;
-using System.Data;
-using TaxiBookingFormMVC.Models;
 
 namespace TaxiBookingFormMVC.Controllers
 {
@@ -17,6 +13,10 @@ namespace TaxiBookingFormMVC.Controllers
 
         static string constr = ConfigurationManager.ConnectionStrings["connection"].ToString();
         SqlConnection con = new SqlConnection(constr);
+
+        AccountRegisteration obj = new AccountRegisteration();
+        //List<AccountRegisteration> objList = new List<AccountRegisteration>();
+
 
 
         //Create Account SignUp Form
@@ -27,15 +27,36 @@ namespace TaxiBookingFormMVC.Controllers
         }
 
 
+
+      
         [HttpGet]
         public ActionResult Create()
         {
-            return View();
+            return View(obj);
         }
         [HttpPost]
-        public ActionResult Create(AccountRegisteration AR)
+        public ActionResult Create(AccountRegisteration obj,HttpPostedFileBase imgObj)
         {
-            if(ModelState.IsValid)
+            if(imgObj!=null)
+            {
+                obj.UserImage = new byte[imgObj.ContentLength];
+                imgObj.InputStream.Read(obj.UserImage, 0, imgObj.ContentLength);
+            }
+            con.Open();
+            string query = "insert into TaxiLoginRegisteration(fullname,email,mobile,password,image)values(@FullName,@Email,@Mobile,@Password,@UserImage)";
+            SqlCommand cmd = new SqlCommand(query, con);
+            cmd.Parameters.AddWithValue("@fullName", obj.FullName);
+            cmd.Parameters.AddWithValue("@Email", obj.Email);
+            cmd.Parameters.AddWithValue("@Mobile", obj.Mobile);
+            cmd.Parameters.AddWithValue("@Password", obj.Password);
+            cmd.Parameters.AddWithValue("@UserImage", obj.UserImage);
+
+            cmd.ExecuteNonQuery();
+            con.Close();
+            ViewData["Msg"] = "New user " + obj.FullName + "  is Registered Successfully";
+            return View(obj);
+
+            /*if(ModelState.IsValid)
             {
                 AccountHandler AH = new AccountHandler();
                 if (AH.Insert(AR))
@@ -44,18 +65,39 @@ namespace TaxiBookingFormMVC.Controllers
                     ModelState.Clear();
                 }
             }
-            return View();
+            return View();*/
         }
-
 
 
         //Read
         public ActionResult DisplayRecord()
         {
-            ViewBag.show = "User SignUp Details List";
-            AccountHandler ac = new AccountHandler();
-            ModelState.Clear();
-            return View(ac.Read());
+            /* ViewBag.show = "User SignUp Details List";
+             AccountHandler ac = new AccountHandler();
+             ModelState.Clear();
+             return View(ac.Read());*/
+           
+                List<AccountRegisteration> obj = new List<AccountRegisteration>();
+                string query = "select userid,fullname,email,mobile,password,image from TaxiLoginRegisteration";
+                SqlCommand cmd = new SqlCommand(query, con);
+                SqlDataAdapter apt = new SqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                con.Open();
+                apt.Fill(dt);
+                con.Close();
+                foreach (DataRow dr in dt.Rows)
+                {
+                    obj.Add(new AccountRegisteration
+                    {
+                        UserId = Convert.ToInt32(dr["userid"]),
+                        FullName = Convert.ToString(dr["fullname"]),
+                        Email = Convert.ToString(dr["email"]),
+                        Mobile = Convert.ToString(dr["mobile"]),
+                        Password = Convert.ToString(dr["password"]),
+                    });
+                }
+                return obj;
+            
         }
 
 

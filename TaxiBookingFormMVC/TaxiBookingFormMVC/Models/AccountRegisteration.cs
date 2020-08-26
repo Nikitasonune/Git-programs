@@ -7,6 +7,20 @@ namespace TaxiBookingFormMVC.Models
 {
     public class AccountRegisteration
     {
+        public AccountRegisteration()
+        {
+            UserImage = null;//First null the image value
+        }
+
+        public AccountRegisteration(int uid,string nm,string em,string m,string pass,byte[]im)//List of Reading Record
+        {
+            UserId = uid;
+            FullName = nm;
+            Email = em;
+            Mobile = m;
+            Password = pass;
+            UserImage = im;
+        }
 
         //[ScaffoldColumn(false)]
         public int UserId { get; set; }
@@ -45,5 +59,10 @@ namespace TaxiBookingFormMVC.Models
         [Compare("Password")]
         [DataType(DataType.Password)]
         public string ConfirmPassword { get; set; }
+
+
+        public byte[] UserImage { get; set; }
+
+        
     }
 }

@@ -17,7 +17,7 @@ namespace TaxiBookingFormMVC.Models
 
 
         //INSERT
-        public bool Insert(AccountRegisteration obj)
+       /* public bool Insert(AccountRegisteration obj)
         {
             string query = "insert into TaxiLoginRegisteration(fullname,email,mobile,password)values('" + obj.FullName + "','" + obj.Email + "','" + obj.Mobile + "','" + obj.Password + "')";
             SqlCommand cmd = new SqlCommand(query, con);
@@ -33,11 +33,11 @@ namespace TaxiBookingFormMVC.Models
                 return false;
             }
             
-        }
+        }*/
 
 
         //READ (Disply All Record in Admin Dashobard only)
-        public List<AccountRegisteration>Read()
+       /* public List<AccountRegisteration>Read()
         {
             List<AccountRegisteration> obj = new List<AccountRegisteration>();
             string query = "select userid,fullname,email,mobile,password from TaxiLoginRegisteration";
@@ -59,7 +59,7 @@ namespace TaxiBookingFormMVC.Models
                 });
             }
             return obj;
-        }
+        }*/
 
 
 
