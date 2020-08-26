@@ -1,0 +1,6 @@
+D:\Nikita\3_march\Day4RoshanSir\Day4RoshanSir\bin\Debug\Day4RoshanSir.exe.config
+D:\Nikita\3_march\Day4RoshanSir\Day4RoshanSir\bin\Debug\Day4RoshanSir.exe
+D:\Nikita\3_march\Day4RoshanSir\Day4RoshanSir\bin\Debug\Day4RoshanSir.pdb
+D:\Nikita\3_march\Day4RoshanSir\Day4RoshanSir\obj\Debug\Day4RoshanSir.exe
+D:\Nikita\3_march\Day4RoshanSir\Day4RoshanSir\obj\Debug\Day4RoshanSir.pdb
+D:\Nikita\3_march\Day4RoshanSir\Day4RoshanSir\obj\Debug\Day4RoshanSir.csprojAssemblyReference.cache
