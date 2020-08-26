@@ -1,0 +1,6 @@
+D:\Nikita\3_march\Inheritance_assign_3\Inheritance_assign_3\bin\Debug\Inheritance_assign_3.exe.config
+D:\Nikita\3_march\Inheritance_assign_3\Inheritance_assign_3\obj\Debug\Inheritance_assign_3.csprojResolveAssemblyReference.cache
+D:\Nikita\3_march\Inheritance_assign_3\Inheritance_assign_3\bin\Debug\Inheritance_assign_3.exe
+D:\Nikita\3_march\Inheritance_assign_3\Inheritance_assign_3\bin\Debug\Inheritance_assign_3.pdb
+D:\Nikita\3_march\Inheritance_assign_3\Inheritance_assign_3\obj\Debug\Inheritance_assign_3.exe
+D:\Nikita\3_march\Inheritance_assign_3\Inheritance_assign_3\obj\Debug\Inheritance_assign_3.pdb
