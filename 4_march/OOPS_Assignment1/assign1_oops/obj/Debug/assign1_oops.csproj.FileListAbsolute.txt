@@ -1,0 +1,6 @@
+D:\Nikita\4_march\assign1_oops\assign1_oops\bin\Debug\assign1_oops.exe.config
+D:\Nikita\4_march\assign1_oops\assign1_oops\obj\Debug\assign1_oops.csprojResolveAssemblyReference.cache
+D:\Nikita\4_march\assign1_oops\assign1_oops\bin\Debug\assign1_oops.exe
+D:\Nikita\4_march\assign1_oops\assign1_oops\bin\Debug\assign1_oops.pdb
+D:\Nikita\4_march\assign1_oops\assign1_oops\obj\Debug\assign1_oops.exe
+D:\Nikita\4_march\assign1_oops\assign1_oops\obj\Debug\assign1_oops.pdb
