@@ -1,0 +1,6 @@
+D:\Nikita\Array_classwork\Array_classwork\bin\Debug\Array_classwork.exe.config
+D:\Nikita\Array_classwork\Array_classwork\bin\Debug\Array_classwork.exe
+D:\Nikita\Array_classwork\Array_classwork\bin\Debug\Array_classwork.pdb
+D:\Nikita\Array_classwork\Array_classwork\obj\Debug\Array_classwork.exe
+D:\Nikita\Array_classwork\Array_classwork\obj\Debug\Array_classwork.pdb
+D:\Nikita\Array_classwork\Array_classwork\obj\Debug\Array_classwork.csprojResolveAssemblyReference.cache

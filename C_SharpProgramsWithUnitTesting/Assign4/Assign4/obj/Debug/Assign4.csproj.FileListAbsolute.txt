@@ -1,0 +1,6 @@
+D:\Nikita\Assign4\Assign4\bin\Debug\Assign4.exe.config
+D:\Nikita\Assign4\Assign4\bin\Debug\Assign4.exe
+D:\Nikita\Assign4\Assign4\bin\Debug\Assign4.pdb
+D:\Nikita\Assign4\Assign4\obj\Debug\Assign4.exe
+D:\Nikita\Assign4\Assign4\obj\Debug\Assign4.pdb
+D:\Nikita\Assign4\Assign4\obj\Debug\Assign4.csprojResolveAssemblyReference.cache

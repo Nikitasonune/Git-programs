@@ -1,0 +1,9 @@
+D:\Nikita\Assign4\Testing\bin\Debug\Testing.dll
+D:\Nikita\Assign4\Testing\bin\Debug\Testing.pdb
+D:\Nikita\Assign4\Testing\bin\Debug\Assign4.exe
+D:\Nikita\Assign4\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Nikita\Assign4\Testing\bin\Debug\Assign4.pdb
+D:\Nikita\Assign4\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Nikita\Assign4\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+D:\Nikita\Assign4\Testing\obj\Debug\Testing.dll
+D:\Nikita\Assign4\Testing\obj\Debug\Testing.pdb

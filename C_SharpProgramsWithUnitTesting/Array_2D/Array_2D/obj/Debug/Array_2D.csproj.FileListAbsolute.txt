@@ -1,0 +1,6 @@
+D:\Nikita\Array_2D\Array_2D\bin\Debug\Array_2D.exe.config
+D:\Nikita\Array_2D\Array_2D\bin\Debug\Array_2D.exe
+D:\Nikita\Array_2D\Array_2D\bin\Debug\Array_2D.pdb
+D:\Nikita\Array_2D\Array_2D\obj\Debug\Array_2D.exe
+D:\Nikita\Array_2D\Array_2D\obj\Debug\Array_2D.pdb
+D:\Nikita\Array_2D\Array_2D\obj\Debug\Array_2D.csprojResolveAssemblyReference.cache

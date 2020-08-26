@@ -1,0 +1,9 @@
+D:\Nikita\Assign6_swap\Testing\bin\Debug\Testing.dll
+D:\Nikita\Assign6_swap\Testing\bin\Debug\Testing.pdb
+D:\Nikita\Assign6_swap\Testing\bin\Debug\Assign6_swap.exe
+D:\Nikita\Assign6_swap\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Nikita\Assign6_swap\Testing\bin\Debug\Assign6_swap.pdb
+D:\Nikita\Assign6_swap\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Nikita\Assign6_swap\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+D:\Nikita\Assign6_swap\Testing\obj\Debug\Testing.dll
+D:\Nikita\Assign6_swap\Testing\obj\Debug\Testing.pdb

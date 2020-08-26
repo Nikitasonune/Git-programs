@@ -1,0 +1,5 @@
+D:\Nikita\Assign6_swap\Assign6_swap\bin\Debug\Assign6_swap.exe.config
+D:\Nikita\Assign6_swap\Assign6_swap\bin\Debug\Assign6_swap.exe
+D:\Nikita\Assign6_swap\Assign6_swap\bin\Debug\Assign6_swap.pdb
+D:\Nikita\Assign6_swap\Assign6_swap\obj\Debug\Assign6_swap.exe
+D:\Nikita\Assign6_swap\Assign6_swap\obj\Debug\Assign6_swap.pdb
