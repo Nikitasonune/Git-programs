@@ -1,0 +1,6 @@
+D:\Nikita\2_march\KhanSirAssign14\KhanSirAssign14\bin\Debug\KhanSirAssign14.exe.config
+D:\Nikita\2_march\KhanSirAssign14\KhanSirAssign14\bin\Debug\KhanSirAssign14.exe
+D:\Nikita\2_march\KhanSirAssign14\KhanSirAssign14\bin\Debug\KhanSirAssign14.pdb
+D:\Nikita\2_march\KhanSirAssign14\KhanSirAssign14\obj\Debug\KhanSirAssign14.exe
+D:\Nikita\2_march\KhanSirAssign14\KhanSirAssign14\obj\Debug\KhanSirAssign14.pdb
+D:\Nikita\2_march\KhanSirAssign14\KhanSirAssign14\obj\Debug\KhanSirAssign14.csprojResolveAssemblyReference.cache
