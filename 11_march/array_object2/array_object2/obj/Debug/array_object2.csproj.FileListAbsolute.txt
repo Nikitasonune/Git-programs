@@ -1,0 +1,6 @@
+D:\Nikita\11_march\array_object2\array_object2\bin\Debug\array_object2.exe.config
+D:\Nikita\11_march\array_object2\array_object2\bin\Debug\array_object2.exe
+D:\Nikita\11_march\array_object2\array_object2\bin\Debug\array_object2.pdb
+D:\Nikita\11_march\array_object2\array_object2\obj\Debug\array_object2.csprojResolveAssemblyReference.cache
+D:\Nikita\11_march\array_object2\array_object2\obj\Debug\array_object2.exe
+D:\Nikita\11_march\array_object2\array_object2\obj\Debug\array_object2.pdb
