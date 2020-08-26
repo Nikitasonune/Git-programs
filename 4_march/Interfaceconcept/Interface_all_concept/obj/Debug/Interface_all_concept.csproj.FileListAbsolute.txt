@@ -1,0 +1,6 @@
+D:\Nikita\4_march\Interface_all_concept\Interface_all_concept\bin\Debug\Interface_all_concept.exe.config
+D:\Nikita\4_march\Interface_all_concept\Interface_all_concept\bin\Debug\Interface_all_concept.exe
+D:\Nikita\4_march\Interface_all_concept\Interface_all_concept\bin\Debug\Interface_all_concept.pdb
+D:\Nikita\4_march\Interface_all_concept\Interface_all_concept\obj\Debug\Interface_all_concept.csprojResolveAssemblyReference.cache
+D:\Nikita\4_march\Interface_all_concept\Interface_all_concept\obj\Debug\Interface_all_concept.exe
+D:\Nikita\4_march\Interface_all_concept\Interface_all_concept\obj\Debug\Interface_all_concept.pdb
