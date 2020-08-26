@@ -1,0 +1,6 @@
+D:\Nikita\3_march\polymorphism\polymorphism\bin\Debug\polymorphism.exe.config
+D:\Nikita\3_march\polymorphism\polymorphism\bin\Debug\polymorphism.exe
+D:\Nikita\3_march\polymorphism\polymorphism\bin\Debug\polymorphism.pdb
+D:\Nikita\3_march\polymorphism\polymorphism\obj\Debug\polymorphism.exe
+D:\Nikita\3_march\polymorphism\polymorphism\obj\Debug\polymorphism.pdb
+D:\Nikita\3_march\polymorphism\polymorphism\obj\Debug\polymorphism.csprojResolveAssemblyReference.cache
