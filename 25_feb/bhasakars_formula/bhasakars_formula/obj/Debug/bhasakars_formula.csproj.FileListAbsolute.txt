@@ -1,0 +1,5 @@
+D:\Nikita\25_feb\bhasakars_formula\bhasakars_formula\bin\Debug\bhasakars_formula.exe.config
+D:\Nikita\25_feb\bhasakars_formula\bhasakars_formula\bin\Debug\bhasakars_formula.exe
+D:\Nikita\25_feb\bhasakars_formula\bhasakars_formula\bin\Debug\bhasakars_formula.pdb
+D:\Nikita\25_feb\bhasakars_formula\bhasakars_formula\obj\Debug\bhasakars_formula.exe
+D:\Nikita\25_feb\bhasakars_formula\bhasakars_formula\obj\Debug\bhasakars_formula.pdb

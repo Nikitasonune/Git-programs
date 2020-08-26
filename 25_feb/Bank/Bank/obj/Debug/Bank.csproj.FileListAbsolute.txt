@@ -1,0 +1,5 @@
+D:\Nikita\25_feb\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Nikita\25_feb\Bank\Bank\bin\Debug\Bank.exe
+D:\Nikita\25_feb\Bank\Bank\bin\Debug\Bank.pdb
+D:\Nikita\25_feb\Bank\Bank\obj\Debug\Bank.exe
+D:\Nikita\25_feb\Bank\Bank\obj\Debug\Bank.pdb

@@ -1,0 +1,7 @@
+D:\Nikita\25_feb\static_memberData\static_memberData\bin\Debug\static_memberData.exe.config
+D:\Nikita\25_feb\nested classes\static_memberData\bin\Debug\static_memberData.exe.config
+D:\Nikita\25_feb\nested classes\static_memberData\bin\Debug\static_memberData.exe
+D:\Nikita\25_feb\nested classes\static_memberData\bin\Debug\static_memberData.pdb
+D:\Nikita\25_feb\nested classes\static_memberData\obj\Debug\static_memberData.csprojResolveAssemblyReference.cache
+D:\Nikita\25_feb\nested classes\static_memberData\obj\Debug\static_memberData.exe
+D:\Nikita\25_feb\nested classes\static_memberData\obj\Debug\static_memberData.pdb

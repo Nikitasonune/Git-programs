@@ -1,0 +1,5 @@
+D:\Nikita\25_feb\Employee_salary\Employee_salary\bin\Debug\Employee_salary.exe.config
+D:\Nikita\25_feb\Employee_salary\Employee_salary\bin\Debug\Employee_salary.exe
+D:\Nikita\25_feb\Employee_salary\Employee_salary\bin\Debug\Employee_salary.pdb
+D:\Nikita\25_feb\Employee_salary\Employee_salary\obj\Debug\Employee_salary.exe
+D:\Nikita\25_feb\Employee_salary\Employee_salary\obj\Debug\Employee_salary.pdb

@@ -1,0 +1,12 @@
+D:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+E:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Nikita\25_feb\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
