@@ -1,0 +1,6 @@
+D:\Nikita\26_feb\CProgramTest2\CProgramTest2\bin\Debug\CProgramTest2.exe.config
+D:\Nikita\26_feb\CProgramTest2\CProgramTest2\bin\Debug\CProgramTest2.exe
+D:\Nikita\26_feb\CProgramTest2\CProgramTest2\bin\Debug\CProgramTest2.pdb
+D:\Nikita\26_feb\CProgramTest2\CProgramTest2\obj\Debug\CProgramTest2.csprojResolveAssemblyReference.cache
+D:\Nikita\26_feb\CProgramTest2\CProgramTest2\obj\Debug\CProgramTest2.exe
+D:\Nikita\26_feb\CProgramTest2\CProgramTest2\obj\Debug\CProgramTest2.pdb

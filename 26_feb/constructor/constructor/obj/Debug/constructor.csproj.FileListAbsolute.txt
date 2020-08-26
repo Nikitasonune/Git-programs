@@ -1,0 +1,6 @@
+D:\Nikita\26_feb\constructor\constructor\bin\Debug\constructor.exe.config
+D:\Nikita\26_feb\constructor\constructor\bin\Debug\constructor.exe
+D:\Nikita\26_feb\constructor\constructor\bin\Debug\constructor.pdb
+D:\Nikita\26_feb\constructor\constructor\obj\Debug\constructor.csprojResolveAssemblyReference.cache
+D:\Nikita\26_feb\constructor\constructor\obj\Debug\constructor.exe
+D:\Nikita\26_feb\constructor\constructor\obj\Debug\constructor.pdb
