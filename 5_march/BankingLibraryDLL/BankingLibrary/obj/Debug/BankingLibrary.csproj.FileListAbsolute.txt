@@ -1,0 +1,9 @@
+D:\Nikita\5_march\BankingLibrary\BankingLibrary\bin\Debug\BankingLibrary.dll
+D:\Nikita\5_march\BankingLibrary\BankingLibrary\bin\Debug\BankingLibrary.pdb
+D:\Nikita\5_march\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.dll
+D:\Nikita\5_march\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.pdb
+E:\Nikita\5_march\BankingLibrary\BankingLibrary\bin\Debug\BankingLibrary.dll
+E:\Nikita\5_march\BankingLibrary\BankingLibrary\bin\Debug\BankingLibrary.pdb
+E:\Nikita\5_march\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.csprojAssemblyReference.cache
+E:\Nikita\5_march\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.dll
+E:\Nikita\5_march\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.pdb

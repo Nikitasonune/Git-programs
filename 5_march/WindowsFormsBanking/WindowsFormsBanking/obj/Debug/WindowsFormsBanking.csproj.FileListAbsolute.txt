@@ -1,0 +1,11 @@
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\bin\Debug\WindowsFormsBanking.exe.config
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\bin\Debug\WindowsFormsBanking.exe
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\bin\Debug\WindowsFormsBanking.pdb
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\bin\Debug\BankingLibrary.dll
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\bin\Debug\BankingLibrary.pdb
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\obj\Debug\WindowsFormsBanking.csprojResolveAssemblyReference.cache
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\obj\Debug\WindowsFormsBanking.Form1.resources
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\obj\Debug\WindowsFormsBanking.Properties.Resources.resources
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\obj\Debug\WindowsFormsBanking.csproj.GenerateResource.Cache
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\obj\Debug\WindowsFormsBanking.exe
+D:\Nikita\5_march\WindowsFormsBanking\WindowsFormsBanking\obj\Debug\WindowsFormsBanking.pdb

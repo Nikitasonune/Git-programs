@@ -1,0 +1,8 @@
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\bin\Debug\Add_SubDll.exe.config
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\bin\Debug\Add_SubDll.exe
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\bin\Debug\Add_SubDll.pdb
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\bin\Debug\myLibrary.dll
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\bin\Debug\myLibrary.pdb
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\obj\Debug\Add_SubDll.csprojResolveAssemblyReference.cache
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\obj\Debug\Add_SubDll.exe
+D:\Nikita\5_march\Add_SubDll\Add_SubDll\obj\Debug\Add_SubDll.pdb

@@ -1,0 +1,5 @@
+D:\Nikita\5_march\myLibrary\myLibrary\bin\Debug\myLibrary.dll
+D:\Nikita\5_march\myLibrary\myLibrary\bin\Debug\myLibrary.pdb
+D:\Nikita\5_march\myLibrary\myLibrary\obj\Debug\myLibrary.csprojResolveAssemblyReference.cache
+D:\Nikita\5_march\myLibrary\myLibrary\obj\Debug\myLibrary.dll
+D:\Nikita\5_march\myLibrary\myLibrary\obj\Debug\myLibrary.pdb

@@ -1,0 +1,6 @@
+D:\Nikita\5_march\RoshanSirDay6\RoshanSirDay6\bin\Debug\RoshanSirDay6.exe.config
+D:\Nikita\5_march\RoshanSirDay6\RoshanSirDay6\bin\Debug\RoshanSirDay6.exe
+D:\Nikita\5_march\RoshanSirDay6\RoshanSirDay6\bin\Debug\RoshanSirDay6.pdb
+D:\Nikita\5_march\RoshanSirDay6\RoshanSirDay6\obj\Debug\RoshanSirDay6.csprojResolveAssemblyReference.cache
+D:\Nikita\5_march\RoshanSirDay6\RoshanSirDay6\obj\Debug\RoshanSirDay6.exe
+D:\Nikita\5_march\RoshanSirDay6\RoshanSirDay6\obj\Debug\RoshanSirDay6.pdb
