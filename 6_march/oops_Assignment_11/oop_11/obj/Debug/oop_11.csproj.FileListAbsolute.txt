@@ -1,0 +1,6 @@
+D:\Nikita\6_march\oop_11\oop_11\bin\Debug\oop_11.exe.config
+D:\Nikita\6_march\oop_11\oop_11\bin\Debug\oop_11.exe
+D:\Nikita\6_march\oop_11\oop_11\bin\Debug\oop_11.pdb
+D:\Nikita\6_march\oop_11\oop_11\obj\Debug\oop_11.csprojResolveAssemblyReference.cache
+D:\Nikita\6_march\oop_11\oop_11\obj\Debug\oop_11.exe
+D:\Nikita\6_march\oop_11\oop_11\obj\Debug\oop_11.pdb
