@@ -1,0 +1,6 @@
+D:\Nikita\17_march\more_oops3\more_oops3\bin\Debug\more_oops3.exe.config
+D:\Nikita\17_march\more_oops3\more_oops3\bin\Debug\more_oops3.exe
+D:\Nikita\17_march\more_oops3\more_oops3\bin\Debug\more_oops3.pdb
+D:\Nikita\17_march\more_oops3\more_oops3\obj\Debug\more_oops3.csprojResolveAssemblyReference.cache
+D:\Nikita\17_march\more_oops3\more_oops3\obj\Debug\more_oops3.exe
+D:\Nikita\17_march\more_oops3\more_oops3\obj\Debug\more_oops3.pdb

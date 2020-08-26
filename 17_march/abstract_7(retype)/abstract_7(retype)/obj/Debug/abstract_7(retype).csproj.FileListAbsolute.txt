@@ -1,0 +1,6 @@
+D:\Nikita\17_march\abstract_7(retype)\abstract_7(retype)\bin\Debug\abstract_7(retype).exe.config
+D:\Nikita\17_march\abstract_7(retype)\abstract_7(retype)\obj\Debug\abstract_7(retype).csprojResolveAssemblyReference.cache
+D:\Nikita\17_march\abstract_7(retype)\abstract_7(retype)\bin\Debug\abstract_7(retype).exe
+D:\Nikita\17_march\abstract_7(retype)\abstract_7(retype)\bin\Debug\abstract_7(retype).pdb
+D:\Nikita\17_march\abstract_7(retype)\abstract_7(retype)\obj\Debug\abstract_7(retype).exe
+D:\Nikita\17_march\abstract_7(retype)\abstract_7(retype)\obj\Debug\abstract_7(retype).pdb

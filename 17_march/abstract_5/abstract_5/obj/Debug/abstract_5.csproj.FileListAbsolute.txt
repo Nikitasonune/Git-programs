@@ -1,0 +1,5 @@
+D:\Nikita\17_march\abstract_5\abstract_5\bin\Debug\abstract_5.exe.config
+D:\Nikita\17_march\abstract_5\abstract_5\bin\Debug\abstract_5.exe
+D:\Nikita\17_march\abstract_5\abstract_5\bin\Debug\abstract_5.pdb
+D:\Nikita\17_march\abstract_5\abstract_5\obj\Debug\abstract_5.exe
+D:\Nikita\17_march\abstract_5\abstract_5\obj\Debug\abstract_5.pdb
