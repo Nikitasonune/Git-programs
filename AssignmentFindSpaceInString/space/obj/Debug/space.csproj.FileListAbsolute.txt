@@ -1,0 +1,9 @@
+D:\Nikita\Assignment_prog4\space\bin\Debug\space.dll
+D:\Nikita\Assignment_prog4\space\bin\Debug\space.pdb
+D:\Nikita\Assignment_prog4\space\bin\Debug\Assignment_prog4.exe
+D:\Nikita\Assignment_prog4\space\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Nikita\Assignment_prog4\space\bin\Debug\Assignment_prog4.pdb
+D:\Nikita\Assignment_prog4\space\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Nikita\Assignment_prog4\space\obj\Debug\space.csprojResolveAssemblyReference.cache
+D:\Nikita\Assignment_prog4\space\obj\Debug\space.dll
+D:\Nikita\Assignment_prog4\space\obj\Debug\space.pdb
