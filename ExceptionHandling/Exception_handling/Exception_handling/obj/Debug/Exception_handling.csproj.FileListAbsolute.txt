@@ -1,0 +1,6 @@
+D:\Nikita\Exception_handling\Exception_handling\bin\Debug\Exception_handling.exe.config
+D:\Nikita\Exception_handling\Exception_handling\obj\Debug\Exception_handling.csprojResolveAssemblyReference.cache
+D:\Nikita\Exception_handling\Exception_handling\bin\Debug\Exception_handling.exe
+D:\Nikita\Exception_handling\Exception_handling\bin\Debug\Exception_handling.pdb
+D:\Nikita\Exception_handling\Exception_handling\obj\Debug\Exception_handling.exe
+D:\Nikita\Exception_handling\Exception_handling\obj\Debug\Exception_handling.pdb
