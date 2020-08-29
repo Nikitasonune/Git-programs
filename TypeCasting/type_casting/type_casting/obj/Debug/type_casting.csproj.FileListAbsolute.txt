@@ -1,0 +1,6 @@
+D:\Nikita\type_casting\type_casting\bin\Debug\type_casting.exe.config
+D:\Nikita\type_casting\type_casting\obj\Debug\type_casting.csprojResolveAssemblyReference.cache
+D:\Nikita\type_casting\type_casting\bin\Debug\type_casting.exe
+D:\Nikita\type_casting\type_casting\bin\Debug\type_casting.pdb
+D:\Nikita\type_casting\type_casting\obj\Debug\type_casting.exe
+D:\Nikita\type_casting\type_casting\obj\Debug\type_casting.pdb
