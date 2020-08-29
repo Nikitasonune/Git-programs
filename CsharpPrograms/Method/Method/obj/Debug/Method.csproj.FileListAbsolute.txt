@@ -1,0 +1,5 @@
+D:\Nikita\Method\Method\bin\Debug\Method.exe.config
+D:\Nikita\Method\Method\bin\Debug\Method.exe
+D:\Nikita\Method\Method\bin\Debug\Method.pdb
+D:\Nikita\Method\Method\obj\Debug\Method.exe
+D:\Nikita\Method\Method\obj\Debug\Method.pdb
