@@ -1,0 +1,6 @@
+D:\Nikita\ConsoleApplication1\basicmaths\bin\Debug\basicmaths.exe.config
+D:\Nikita\ConsoleApplication1\basicmaths\bin\Debug\basicmaths.exe
+D:\Nikita\ConsoleApplication1\basicmaths\bin\Debug\basicmaths.pdb
+D:\Nikita\ConsoleApplication1\basicmaths\obj\Debug\basicmaths.csprojResolveAssemblyReference.cache
+D:\Nikita\ConsoleApplication1\basicmaths\obj\Debug\basicmaths.exe
+D:\Nikita\ConsoleApplication1\basicmaths\obj\Debug\basicmaths.pdb

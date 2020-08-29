@@ -1,0 +1,8 @@
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\bin\Debug\basicmaths.exe
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\bin\Debug\basicmaths.pdb
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Nikita\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
