@@ -1,0 +1,9 @@
+D:\Nikita\Assignment1\Assign_1\bin\Debug\Assign_1.dll
+D:\Nikita\Assignment1\Assign_1\bin\Debug\Assign_1.pdb
+D:\Nikita\Assignment1\Assign_1\bin\Debug\Assignment1.exe
+D:\Nikita\Assignment1\Assign_1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Nikita\Assignment1\Assign_1\bin\Debug\Assignment1.pdb
+D:\Nikita\Assignment1\Assign_1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Nikita\Assignment1\Assign_1\obj\Debug\Assign_1.csprojResolveAssemblyReference.cache
+D:\Nikita\Assignment1\Assign_1\obj\Debug\Assign_1.dll
+D:\Nikita\Assignment1\Assign_1\obj\Debug\Assign_1.pdb
