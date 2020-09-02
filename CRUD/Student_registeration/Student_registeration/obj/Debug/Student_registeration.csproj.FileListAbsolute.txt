@@ -1,0 +1,174 @@
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\Student_registeration.dll.config
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\Student_registeration.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\Student_registeration.pdb
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\csc.exe
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\csc.rsp
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\csi.exe
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\csi.rsp
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\vbc.exe
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\obj\Debug\Student_registeration.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\obj\Debug\Student_registeration.dll
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\obj\Debug\Student_registeration.pdb
+C:\Users\Lenovo\source\repos\Student_registeration\Student_registeration\obj\Debug\Student_registeration.csprojAssemblyReference.cache
+E:\arati\repos\Student_registeration\Student_registeration\bin\Student_registeration.dll.config
+E:\arati\repos\Student_registeration\Student_registeration\bin\Student_registeration.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\Student_registeration.pdb
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\csc.exe
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\csc.exe.config
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\csc.rsp
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\csi.exe
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\csi.exe.config
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\csi.rsp
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Managed.Core.targets
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.AppContext.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Collections.Immutable.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Console.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Globalization.Calendars.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.Compression.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.FileSystem.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Net.Http.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Net.Sockets.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Reflection.Metadata.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.ValueTuple.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XmlDocument.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XPath.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\vbc.exe
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\vbc.exe.config
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\vbc.rsp
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\VBCSCompiler.exe
+E:\arati\repos\Student_registeration\Student_registeration\bin\roslyn\VBCSCompiler.exe.config
+E:\arati\repos\Student_registeration\Student_registeration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\arati\repos\Student_registeration\Student_registeration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\arati\repos\Student_registeration\Student_registeration\obj\Debug\Student_registeration.csproj.CopyComplete
+E:\arati\repos\Student_registeration\Student_registeration\obj\Debug\Student_registeration.dll
+E:\arati\repos\Student_registeration\Student_registeration\obj\Debug\Student_registeration.pdb
+F:\practice .net\Student_registeration\Student_registeration\bin\Student_registeration.dll.config
+F:\practice .net\Student_registeration\Student_registeration\bin\Student_registeration.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\Student_registeration.pdb
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\csc.exe
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\csc.exe.config
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\csc.rsp
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\csi.exe
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\csi.exe.config
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\csi.rsp
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Managed.Core.targets
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.AppContext.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Collections.Immutable.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Console.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Globalization.Calendars.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.IO.Compression.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.IO.FileSystem.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Net.Http.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Net.Sockets.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Reflection.Metadata.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.ValueTuple.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XmlDocument.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XPath.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\vbc.exe
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\vbc.exe.config
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\vbc.rsp
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\VBCSCompiler.exe
+F:\practice .net\Student_registeration\Student_registeration\bin\roslyn\VBCSCompiler.exe.config
+F:\practice .net\Student_registeration\Student_registeration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\practice .net\Student_registeration\Student_registeration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\practice .net\Student_registeration\Student_registeration\obj\Debug\Student_registeration.csprojAssemblyReference.cache
+F:\practice .net\Student_registeration\Student_registeration\obj\Debug\Student_registeration.csproj.CoreCompileInputs.cache
+F:\practice .net\Student_registeration\Student_registeration\obj\Debug\Student_registeration.csproj.CopyComplete
+F:\practice .net\Student_registeration\Student_registeration\obj\Debug\Student_registeration.dll
+F:\practice .net\Student_registeration\Student_registeration\obj\Debug\Student_registeration.pdb
